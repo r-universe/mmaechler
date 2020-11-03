@@ -1,3 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "fracdiff"]
+	path = fracdiff
+	url = https://github.com/mmaechler/fracdiff
+	shallow = true
+[submodule "supclust"]
+	path = supclust
+	url = https://github.com/mmaechler/supclust
+	shallow = true
