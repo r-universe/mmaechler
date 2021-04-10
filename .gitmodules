@@ -7,11 +7,14 @@
 	path = fracdiff
 	url = https://github.com/mmaechler/fracdiff
 	shallow = true
+	registered = true
 [submodule "sfsmisc"]
 	path = sfsmisc
 	url = https://github.com/mmaechler/sfsmisc
 	shallow = true
+	registered = true
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/mmaechler/supclust
 	shallow = true
+	registered = true
