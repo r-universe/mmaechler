@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bitops"]
+	path = bitops
+	url = https://github.com/mmaechler/r-bitops
+	shallow = true
+	registered = true
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/mmaechler/fracdiff
