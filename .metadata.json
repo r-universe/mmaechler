@@ -1,0 +1,22 @@
+[
+  {
+    "package": "bitops",
+    "oncran": true
+  },
+  {
+    "package": "diptest",
+    "oncran": true
+  },
+  {
+    "package": "fracdiff",
+    "oncran": true
+  },
+  {
+    "package": "sfsmisc",
+    "oncran": true
+  },
+  {
+    "package": "supclust",
+    "oncran": true
+  }
+]
