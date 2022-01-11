@@ -14,9 +14,5 @@
   {
     "package": "sfsmisc",
     "oncran": true
-  },
-  {
-    "package": "supclust",
-    "oncran": true
   }
 ]
