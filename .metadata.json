@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "diptest",
-    "oncran": true
-  },
-  {
     "package": "fracdiff",
     "oncran": true
   },
