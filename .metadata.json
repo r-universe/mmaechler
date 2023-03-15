@@ -4,11 +4,7 @@
     "oncran": true
   },
   {
-    "package": "diptest",
-    "oncran": true
-  },
-  {
-    "package": "fracdiff",
+    "package": "supclust",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "supclust",
+    "package": "fracdiff",
+    "oncran": true
+  },
+  {
+    "package": "diptest",
     "oncran": true
   }
 ]
