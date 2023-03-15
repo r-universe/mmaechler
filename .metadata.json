@@ -4,11 +4,7 @@
     "oncran": true
   },
   {
-    "package": "supclust",
-    "oncran": true
-  },
-  {
-    "package": "sfsmisc",
+    "package": "diptest",
     "oncran": true
   },
   {
@@ -16,7 +12,11 @@
     "oncran": true
   },
   {
-    "package": "diptest",
+    "package": "sfsmisc",
+    "oncran": true
+  },
+  {
+    "package": "supclust",
     "oncran": true
   }
 ]
