@@ -73,11 +73,6 @@
 	url = https://github.com/mmaechler/sfsmisc
 	shallow = true
 	registered = true
-[submodule "stabledist"]
-	path = stabledist
-	url = https://github.com/cran/stabledist
-	shallow = true
-	registered = true
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/mmaechler/supclust
