@@ -63,6 +63,11 @@
 	url = https://github.com/cran/robustX
 	shallow = true
 	registered = true
+[submodule "round"]
+	path = round
+	url = https://gitlab.com/mmaechler/round
+	shallow = true
+	registered = true
 [submodule "sca"]
 	path = sca
 	url = https://github.com/cran/sca
