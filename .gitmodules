@@ -1,90 +1,55 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bitops"]
 	path = bitops
 	url = https://github.com/mmaechler/r-bitops
-	shallow = true
-	registered = true
 [submodule "CLA"]
 	path = CLA
 	url = https://github.com/cran/CLA
-	shallow = true
-	registered = true
 [submodule "classGraph"]
 	path = classGraph
 	url = https://github.com/cran/classGraph
-	shallow = true
-	registered = true
 [submodule "cluster"]
 	path = cluster
 	url = https://github.com/cran/cluster
-	shallow = true
-	registered = true
 [submodule "diptest"]
 	path = diptest
 	url = https://github.com/mmaechler/diptest
-	shallow = true
-	registered = true
 [submodule "DPQmpfr"]
 	path = DPQmpfr
 	url = https://github.com/cran/DPQmpfr
-	shallow = true
-	registered = true
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/mmaechler/fracdiff
-	shallow = true
-	registered = true
 [submodule "lokern"]
 	path = lokern
 	url = https://github.com/cran/lokern
-	shallow = true
-	registered = true
 [submodule "longmemo"]
 	path = longmemo
 	url = https://github.com/cran/longmemo
-	shallow = true
-	registered = true
 [submodule "lpridge"]
 	path = lpridge
 	url = https://github.com/cran/lpridge
-	shallow = true
-	registered = true
 [submodule "nor1mix"]
 	path = nor1mix
 	url = https://github.com/cran/nor1mix
-	shallow = true
-	registered = true
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
-	shallow = true
-	registered = true
 [submodule "round"]
 	path = round
 	url = https://gitlab.com/mmaechler/round
-	shallow = true
-	registered = true
 [submodule "sca"]
 	path = sca
 	url = https://github.com/cran/sca
-	shallow = true
-	registered = true
 [submodule "sfsmisc"]
 	path = sfsmisc
 	url = https://github.com/mmaechler/sfsmisc
-	shallow = true
-	registered = true
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/mmaechler/supclust
-	shallow = true
-	registered = true
 [submodule "VLMC"]
 	path = VLMC
 	url = https://github.com/cran/VLMC
-	shallow = true
-	registered = true
