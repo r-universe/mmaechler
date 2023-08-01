@@ -2,12 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bitops"]
-	path = bitops
-	url = https://github.com/mmaechler/r-bitops
 [submodule "CLA"]
 	path = CLA
 	url = https://github.com/cran/CLA
+[submodule "DPQmpfr"]
+	path = DPQmpfr
+	url = https://github.com/cran/DPQmpfr
+[submodule "VLMC"]
+	path = VLMC
+	url = https://github.com/cran/VLMC
+[submodule "bitops"]
+	path = bitops
+	url = https://github.com/mmaechler/r-bitops
 [submodule "classGraph"]
 	path = classGraph
 	url = https://github.com/cran/classGraph
@@ -17,9 +23,6 @@
 [submodule "diptest"]
 	path = diptest
 	url = https://github.com/mmaechler/diptest
-[submodule "DPQmpfr"]
-	path = DPQmpfr
-	url = https://github.com/cran/DPQmpfr
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/mmaechler/fracdiff
@@ -50,6 +53,3 @@
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/mmaechler/supclust
-[submodule "VLMC"]
-	path = VLMC
-	url = https://github.com/cran/VLMC
