@@ -35,9 +35,6 @@
 [submodule "lpridge"]
 	path = lpridge
 	url = https://github.com/cran/lpridge
-[submodule "nor1mix"]
-	path = nor1mix
-	url = https://github.com/cran/nor1mix
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
