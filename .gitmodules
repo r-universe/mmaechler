@@ -5,9 +5,6 @@
 [submodule "CLA"]
 	path = CLA
 	url = https://github.com/cran/CLA
-[submodule "DPQmpfr"]
-	path = DPQmpfr
-	url = https://github.com/cran/DPQmpfr
 [submodule "VLMC"]
 	path = VLMC
 	url = https://github.com/cran/VLMC
