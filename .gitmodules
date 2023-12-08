@@ -23,9 +23,6 @@
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/mmaechler/fracdiff
-[submodule "lokern"]
-	path = lokern
-	url = https://github.com/cran/lokern
 [submodule "longmemo"]
 	path = longmemo
 	url = https://github.com/cran/longmemo
