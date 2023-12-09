@@ -26,9 +26,6 @@
 [submodule "longmemo"]
 	path = longmemo
 	url = https://github.com/cran/longmemo
-[submodule "lpridge"]
-	path = lpridge
-	url = https://github.com/cran/lpridge
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
