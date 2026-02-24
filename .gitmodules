@@ -26,9 +26,6 @@
 [submodule "longmemo"]
 	path = longmemo
 	url = https://github.com/cran/longmemo
-[submodule "robustX"]
-	path = robustX
-	url = https://github.com/cran/robustX
 [submodule "round"]
 	path = round
 	url = https://gitlab.com/mmaechler/round
